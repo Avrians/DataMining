@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+Roti,Anggur,Telur,Daging,Keju,Pensil,Popok
+Roti,Keju,Daging,Popok,Anggur,Susu,Pensil
+Keju,Daging,Telur,Susu,Anggur,,
+Keju,Daging,Telur,Susu,Anggur,,
+Daging,Pensil,Anggur,,,,
+Telur,Roti,Anggur,Pensil,Susu,Popok,Bagel
+Anggur,Pensil,Telur,Keju,,,
+Bagel,Roti,Susu,Pensil,Popok,,
+Roti,Popok,Keju,Susu,Anggur,Telur,
+Bagel,Anggur,Popok,Daging,Pensil,Telur,Keju
